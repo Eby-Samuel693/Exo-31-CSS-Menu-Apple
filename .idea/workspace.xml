@@ -19,9 +19,8 @@
     <select />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="90fb7a2e-6113-4090-967e-e5dd394696ab" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/apple.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
+    <list default="true" id="90fb7a2e-6113-4090-967e-e5dd394696ab" name="Default Changelist" comment="exo31hhrd">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -63,8 +62,26 @@
       <option name="presentableId" value="Default" />
       <updated>1604584146826</updated>
       <workItem from="1604584147891" duration="1313000" />
-      <workItem from="1604585547891" duration="2103000" />
+      <workItem from="1604585547891" duration="2355000" />
+      <workItem from="1604656359952" duration="21000" />
+      <workItem from="1604656511751" duration="22000" />
+      <workItem from="1604657075512" duration="25000" />
     </task>
+    <task id="LOCAL-00001" summary="exo31">
+      <created>1604587913801</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1604587913801</updated>
+    </task>
+    <task id="LOCAL-00002" summary="exo31hhrd">
+      <created>1604587947688</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1604587947688</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -81,5 +98,16 @@
       </map>
     </option>
     <option name="oldMeFiltersMigrated" value="true" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="exo31" />
+    <MESSAGE value="exo31hhrd" />
+    <option name="LAST_COMMIT_MESSAGE" value="exo31hhrd" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="275" y="83" key="Vcs.Push.Dialog.v2" timestamp="1604587949713">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="275" y="83" key="Vcs.Push.Dialog.v2/0.0.1366.728@0.0.1366.728" timestamp="1604587949713" />
   </component>
 </project>
